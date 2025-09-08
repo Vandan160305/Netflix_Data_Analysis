@@ -86,8 +86,7 @@ It focuses on data cleaning, handling missing values, filtering, grouping, and v
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/netflix-data-analysis.git
-cd netflix-data-analysis
+https://github.com/Vandan160305/Netflix_Data_Analysis.git
 
 # 2. Install dependencies
 pip install pandas matplotlib seaborn
