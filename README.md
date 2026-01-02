@@ -82,6 +82,18 @@ It focuses on data cleaning, handling missing values, filtering, grouping, and v
 
 ---
 
+## 👨‍💻 Author
+
+**Patel Vandan**
+- GitHub: https://github.com/Vandan160305
+- LinkedIn: https://www.linkedin.com/in/patel-vandan-6413822b4/
+- Email: vandan160305@gmail.com
+
+
+
+
+---
+
 ## 🚀 How to Run  
 
 ```bash
